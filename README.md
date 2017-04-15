@@ -1,4 +1,4 @@
-Autor: @LeonidasEsteban
+Autor: Luis Angles
 
 frontend-profesional-america
 ============================
